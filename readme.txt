@@ -4,3 +4,5 @@ does git love me?
 我要加油啊
 
 gogogo
+
+一个长得像记事本的notepad
